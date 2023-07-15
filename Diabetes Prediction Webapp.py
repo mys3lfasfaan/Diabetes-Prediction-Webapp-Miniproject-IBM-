@@ -4,7 +4,7 @@ import numpy as np
 import sklearn
 from sklearn.linear_model import LogisticRegression
 
-path = 'C:/Users/Abrar sharif/OneDrive/Desktop/Asfaan Mini/finalized_model.sav'
+path = 'finalized_model.sav'
 
 diabetes_model = pickle.load(open(path, 'rb'))
 
