@@ -2,3 +2,4 @@ numpy == 1.21.4
 pickle-mixin == 1.0.2
 streamlit == 1.2.0
 scikit-learn == 1.2.2
+pip install click == 7.1.2
